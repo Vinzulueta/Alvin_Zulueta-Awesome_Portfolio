@@ -28,3 +28,16 @@
 - Proficiency in working with various operating systems like Windows, Linux, macOS, etc., and performing system administration tasks.
 - Knowledge of HTML, CSS, and JavaScript, as well as frameworks like React or Angular, for building and maintaining websites and web applications.
 - Strong analytical skills to identify and resolve technical issues efficiently.
+
+## Personal Information
+
+![Profile Image](mine.jpg)
+
+- Date of Birth: March 03, 2000
+- Age: 23 years old
+- Height: 4'8
+- Weight: 98 lbs
+- Religion: Catholic
+- Sex: Male
+- Civil Status: Single
+- Language/Dialect Spoken: Filipino/English
