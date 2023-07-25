@@ -8,14 +8,14 @@
 
 ## Personal Information
 
-| *Date of Birth* | March 03, 2000 |
-| *Age* | 23 years old |
-| *Height* | 4'8" |
-| *Weight* | 98 lbs |
-| *Religion* | Catholic |
-| *Sex* | Male |
-| *Civil Status* | Single |
-| *Language/Dialect Spoken* | Filipino/English |
+- Date of Birth: March 03, 2000
+- Age: 23 years old
+- Height: 4'8
+- Weight: 98 lbs
+- Religion: Catholic
+- Sex: Male
+- Civil Status: Single
+- Language/Dialect Spoken: Filipino/English
 
 ## Education
 
