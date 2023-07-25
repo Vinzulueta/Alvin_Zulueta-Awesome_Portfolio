@@ -1,5 +1,8 @@
 # ALVIN ZULUETA Portfolio
 
+![mine](https://github.com/Vinzulueta/Alvin_Zulueta-Awesome_Portfolio/assets/140486236/7725ada1-2b5e-44a5-8ae9-c229d99790ef)
+
+
 - *Address:* Blk 89 lot 7 St. Martha Housing Sitio Talaga Brgy. Maybancal Morong Rizal
 - *Phone:* 09120046456
 - *Email:* zuluetaalvin53@gmail.com
@@ -30,8 +33,6 @@
 - Strong analytical skills to identify and resolve technical issues efficiently.
 
 ## Personal Information
-
-       ![mine](https://github.com/Vinzulueta/Alvin_Zulueta-Awesome_Portfolio/assets/140486236/69dacefb-df0f-458f-9b90-1d3e0f8e19fb)
 
 - Date of Birth: March 03, 2000
 - Age: 23 years old
