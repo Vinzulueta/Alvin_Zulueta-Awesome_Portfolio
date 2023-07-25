@@ -31,7 +31,7 @@
 
 ## Personal Information
 
-<img src="mine.jpg" alt="Image" width="200">
+<img src="mine.jpg" alt="mine" width="200">
 
 - Date of Birth: March 03, 2000
 - Age: 23 years old
