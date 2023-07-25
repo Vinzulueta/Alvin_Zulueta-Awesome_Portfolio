@@ -31,7 +31,8 @@
 
 ## Personal Information
 
-![Profile Image](mine.jpg)
+![Profile Image](![mine](https://github.com/Vinzulueta/Alvin_Zulueta-Awesome_Portfolio/assets/140486236/9a359dff-7561-4d35-a173-f9a7be1a97d3)
+ mine.jpg)
 
 - Date of Birth: March 03, 2000
 - Age: 23 years old
