@@ -28,4 +28,3 @@
 - Proficiency in working with various operating systems like Windows, Linux, macOS, etc., and performing system administration tasks.
 - Knowledge of HTML, CSS, and JavaScript, as well as frameworks like React or Angular, for building and maintaining websites and web applications.
 - Strong analytical skills to identify and resolve technical issues efficiently.
-
