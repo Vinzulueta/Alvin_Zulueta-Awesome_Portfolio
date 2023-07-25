@@ -4,23 +4,6 @@
 
 ## Personal Information
 
-- Date of Birth: March 03, 2000
-- Age: 23 years old
-- Height: 4'8
-- Weight: 98 lbs
-- Religion: Catholic
-- Sex: Male
-- Civil Status: Single
-- Language/Dialect Spoken: Filipino/English
-- 
-# ALVIN ZULUETA Portfolio
-
-- *Address:* Blk 89 lot 7 St. Martha Housing Sitio Talaga Brgy. Maybancal Morong Rizal
-- *Phone:* 09120046456
-- *Email:* zuluetaalvin53@gmail.com
-
-## Personal Information
-
 | *Date of Birth* | March 03, 2000 |
 | *Age* | 23 years old |
 | *Height* | 4'8" |
